@@ -127,6 +127,10 @@
   /* box-shadow: 0 0 30px 5px; */
 }
 
+.image_q img {
+  width: 100%;
+}
+
 /* .image_q img:nth-child(even) {
   position: absolute;
   top: 20%;
