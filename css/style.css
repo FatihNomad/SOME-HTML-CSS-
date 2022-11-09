@@ -124,24 +124,11 @@
   width: 19.5%;
   margin: 60px 0;
   display: flex;
-  /* box-shadow: 0 0 30px 5px; */
 }
 
 .image_q img {
   width: 100%;
 }
-
-/* .image_q img:nth-child(even) {
-  position: absolute;
-  top: 20%;
-  left: px
-}
-
-.image_q img:nth-child(odd) {
-  position: relative;
-  left: 100px
-} */
-
 
 .img_q1 {
   position: relative;
